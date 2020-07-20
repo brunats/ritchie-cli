@@ -17,4 +17,5 @@ func NewAddCmd() *cobra.Command {
 		Short: "Add repositories",
 		Long:  descAddLong,
 	}
+
 }
